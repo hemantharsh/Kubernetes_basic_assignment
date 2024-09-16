@@ -226,6 +226,8 @@ This repository contains a simple Flask web application that has been Dockerized
    ```
 
    You should see 3 pods running now.
+![image](https://github.com/user-attachments/assets/99a101ba-4aaf-4d3e-bb85-1bbf45ead780)
+
 
 ## Troubleshooting Commands
 
